@@ -1,0 +1,14 @@
+{
+  "name": "node98",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js app for Node98",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  }
+}
